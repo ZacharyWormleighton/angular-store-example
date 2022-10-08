@@ -1,3 +1,3 @@
 # angular-store-example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-qivoyp)
+Store UI for example Angular application
